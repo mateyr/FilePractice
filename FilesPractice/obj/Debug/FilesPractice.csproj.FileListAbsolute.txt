@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\FilesPractice\FilesPractice\bin\Debug\FilesPractice.exe.config
+C:\Users\LENOVO\source\repos\FilesPractice\FilesPractice\bin\Debug\FilesPractice.exe
+C:\Users\LENOVO\source\repos\FilesPractice\FilesPractice\bin\Debug\FilesPractice.pdb
+C:\Users\LENOVO\source\repos\FilesPractice\FilesPractice\obj\Debug\FilesPractice.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\FilesPractice\FilesPractice\obj\Debug\FilesPractice.Form1.resources
+C:\Users\LENOVO\source\repos\FilesPractice\FilesPractice\obj\Debug\FilesPractice.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\FilesPractice\FilesPractice\obj\Debug\FilesPractice.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\FilesPractice\FilesPractice\obj\Debug\FilesPractice.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FilesPractice\FilesPractice\obj\Debug\FilesPractice.exe
+C:\Users\LENOVO\source\repos\FilesPractice\FilesPractice\obj\Debug\FilesPractice.pdb
+C:\Users\LENOVO\source\repos\FilesPractice\FilesPractice\obj\Debug\FilesPractice.EmpleadosView.resources
+C:\Users\LENOVO\source\repos\FilesPractice\FilesPractice\obj\Debug\FilesPractice.addEmpleado.resources
+C:\Users\LENOVO\source\repos\FilesPractice\FilesPractice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO\source\repos\FilesPractice\FilesPractice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO\source\repos\FilesPractice\FilesPractice\obj\Debug\FilesPractice.csproj.CopyComplete
